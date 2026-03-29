@@ -34,7 +34,7 @@ I enjoy coding, going to the gym, and continuously improving my skills every day
 
 # 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/)
+[![LinkedIn][(https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/)](https://www.linkedin.com/in/rishav-nadar-4a3584319?original_referer=https%3A%2F%2Fgithub.com%2F)
 
 ---
 
